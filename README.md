@@ -1,4 +1,4 @@
-# FRV-ReplicationMaterials
+# FRV2015-ReplicationMaterials
 Materials that I have used for the replication of "Farber, H. S., Rothstein, J., &amp; Valletta, R. G. (2015). The effect of extended unemployment insurance benefits: Evidence from the 2012-2013 phase-out. American Economic Review, 105(5), 171-76."
 
 This repository contains the scripts and data that I have used for my replication study project for the course Labor Economics taught by Professor Pierre Cahuc at Sciences Po for Fall 2021. 

@@ -15,3 +15,5 @@ To replicate the main results of the paper, execute the files in the following o
 5. Fig2.do - uses the data constructed by the authors to replicate Figure 2;
 6. regSpec1.do - uses the data constructed by the authors to replicate results using Specification 1. 
 7. regSpec2.do - uses the data constructed by the authors to replicate results using Specification 2. 
+
+Feel free to contact write to me at nikhil.sebastian@sciencespo.fr for further clarifications/questions.

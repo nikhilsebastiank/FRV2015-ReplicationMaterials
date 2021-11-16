@@ -8,12 +8,11 @@ All Stata scripts are published by the authors (https://www.openicpsr.org/openic
 To replicate the main results of the paper, execute the files in the following order: 
 (Caution: Please change the working directory to the directory that contains the data)
 
-1. scraper.jl - to download the CPSB data;
-2. fred.jl - to download data for Vacancy-Unemployment ratio from the FRED database; (the series is now discontinued and is only available until 2018);
-3. FredData.do - To convert the .csv file to .dta and to create variables needed to replicate the paper;
-4. Fig1.do - uses the downloaded FRED data and the data constructed by the authors to replicate Figure 1;
-5. Fig2.do - uses the data constructed by the authors to replicate Figure 2;
-6. regSpec1.do - uses the data constructed by the authors to replicate results using Specification 1. 
-7. regSpec2.do - uses the data constructed by the authors to replicate results using Specification 2. 
+1. scraper.jl - to download the CPSB data and data for Vacancy-Unemployment ratio from the FRED database;
+2. FredData.do - To convert the .csv file to .dta and to create variables needed to replicate the paper;
+3. Fig1.do - uses the downloaded FRED data and the data constructed by the authors to replicate Figure 1;
+4. Fig2.do - uses the data constructed by the authors to replicate Figure 2;
+5. regSpec1.do - uses the data constructed by the authors to replicate results using Specification 1. 
+6. regSpec2.do - uses the data constructed by the authors to replicate results using Specification 2. 
 
 Feel free to write to me at nikhil.sebastian@sciencespo.fr for further clarifications/questions.

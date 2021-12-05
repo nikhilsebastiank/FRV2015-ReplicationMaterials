@@ -1,7 +1,7 @@
 # FRV2015-ReplicationMaterials :mortar_board:
 Materials that I have used for the replication of "Farber, H. S., Rothstein, J., &amp; Valletta, R. G. (2015). The effect of extended unemployment insurance benefits: Evidence from the 2012-2013 phase-out. American Economic Review, 105(5), 171-76."
 
-This repository contains scripts and data that I have used for my replication project for the course 'Labor Economics' taught by Professor Pierre Cahuc at Sciences Po during Fall 2021. 
+This repository contains scripts and data that I have used for my replication project for the course 'Labor Economics' taught by Professor Pierre Cahuc at Sciences Po during the Fall '21 semester. 
 
 All Stata scripts are published by the authors (https://www.openicpsr.org/openicpsr/project/113408/version/V1/view) and my modifications have mostly been to make some of the code consistent. Additionally, I have added scripts to download CPSB and FRED data that the authors do not provide.
 
